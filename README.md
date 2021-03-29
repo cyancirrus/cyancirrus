@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyancirrus {autumn UwU}
 - 👀 I’m interested in {machine learning, software development, data science, healthcare}
-- 🌱 I’m currently learning {js, react, graph algorithms}
+- 🌱 I’m currently learning {js, react, graph algorithms, aws}
 - 💞️ I’m looking to collaborate on ... {coming soon}
 - 📫 How to reach me {discord: autumn#3467}
 
