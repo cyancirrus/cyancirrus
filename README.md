@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyancirrus {autumn UwU}
+- 👋 Hi, I’m @cyancirrus {autumn}
 - 👀 I’m interested in {machine learning, software development, data science, healthcare}
 - 🌱 I’m currently learning {js, react, graph algorithms, aws}
 - 💞️ I’m looking to collaborate on ... {coming soon}
