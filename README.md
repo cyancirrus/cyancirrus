@@ -12,7 +12,7 @@
 - High-performance linear algebra and Fourier transforms
 
 📚 Sharpening fundamentals with daily LeetCode challenges:  
-Focused on dynamic programming, graph theory, and complex systems — solutions live in my [`algo`](https://github.com/cyancirrus/algo) repo.
+- Focused on dynamic programming, graph theory, and complex systems — solutions live in my [`algo`](https://github.com/cyancirrus/algo) repo.
 
 🛠 Key projects pinned on my profile:
 - **neural-net** — From-scratch neural network implementation in Rust  
