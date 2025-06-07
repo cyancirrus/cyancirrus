@@ -26,5 +26,6 @@
 
 💬 Open to discussions on numerical methods, HPC, autodiff, and mastering Rust’s borrow checker.
 
-📫 Discord: autumn#3467  
+📫 Discord: magenta#2449
 ⚠️ Algorithm questions? I’m likely already juggling several — but always happy to chat! 😅
+
