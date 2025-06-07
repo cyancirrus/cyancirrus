@@ -1,18 +1,30 @@
-👋 Hi, I’m @cyancirrus {autumn}
+👋 Hi, I’m @cyancirrus (autumn)
 
-👀 I’m diving deep into {mathematical computing, machine learning, low-level programming, neural networks, SVD algorithms}
+🧠 I’m deep in the weeds of:
+- mathematical & scientific computing
+- neural networks and numerical methods
+- low-level systems and optimization
+- SVD, matrix ops, and signal processing
 
-🌱 Currently exploring {Rust, numerical methods, high-performance computing, replicating results from white papers}
+🦀 Currently building out a Rust-based ecosystem:
+- neural nets from scratch (no libraries)
+- a custom BLAS-like math backend
+- high-performance transforms and linear algebra routines
 
-💻 I’m building a neural network from scratch in Rust—no libraries, just pure code.
+📚 Lately, I’ve been sharpening my fundamentals with daily LeetCode:
+- Focused on dynamic programming, graph theory, and tricky systems questions
+- I’m pushing to my `algos` repo with real-world-strength Rust solutions
+- Sample problems: `merge_k_lists.rs`, `ocean_flow.rs`, `sudoku_bitmask.rs`, `spiral_matrix.rs`, `levenshtein.rs`, `permutations.rs`, and dozens more
 
-📚 I’ve completed the SVD algorithm and I’m working on more robust and optimized methods for linear algebra problems.
+🔬 I treat these as warmups for larger ambitions: designing optimized, expressive abstractions for scientific computing and replicating complex research results from white papers.
 
-💬 I’m open to collaborations on {scientific computing, low-level algorithm design, optimization techniques, and computational theory}.
+💬 Always up for discussions about:
+- numerical methods, HPC, or autodiff
+- how to bend Rust’s borrow checker to your will
+- turning ML research into robust systems
 
-📫 Reach me on Discord: autumn#3467
-
-If your first thought is to ask me an algorithm problem, please be kind—I’m in the weeds with numerical methods!
+📫 Discord: autumn#3467  
+🛠 If your first thought is to ask me an algorithm problem, please be kind—I’m likely already solving five 😅
 
 <!---
 cyancirrus/cyancirrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
