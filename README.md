@@ -1,32 +1,30 @@
-👋 Hi, I’m @cyancirrus (autumn)
+👋 Hi, I’m @cyancirrus (Autumn / Raven Echo)
 
-🧠 I’m deep in the weeds of:
-- mathematical & scientific computing
-- neural networks and numerical methods
-- low-level systems and optimization
-- SVD, matrix ops, and signal processing
+🧠 Deeply immersed in:
+- Mathematical & scientific computing
+- Neural networks and numerical methods
+- Low-level systems and performance optimization
+- SVD, matrix operations, and signal processing
 
-🦀 Currently building out a Rust-based ecosystem:
-- neural nets from scratch (no libraries)
-- a custom BLAS-like math backend
-- high-performance transforms and linear algebra routines
+🦀 Building a Rust-based ecosystem from scratch:
+- Neural nets without external libraries
+- Custom BLAS-like math backend (`stellar-math`)
+- High-performance linear algebra and Fourier transforms
 
-📚 Lately, I’ve been sharpening my fundamentals with daily LeetCode:
-- Focused on dynamic programming, graph theory, and tricky systems questions
-- I’m pushing to my `algos` repo with real-world-strength Rust solutions
-- Sample problems: `merge_k_lists.rs`, `ocean_flow.rs`, `sudoku_bitmask.rs`, `spiral_matrix.rs`, `levenshtein.rs`, `permutations.rs`, and dozens more
+📚 Sharpening fundamentals with daily LeetCode challenges:  
+Focused on dynamic programming, graph theory, and complex systems — solutions live in my [`algo`](https://github.com/cyancirrus/algo) repo.
 
-🔬 I treat these as warmups for larger ambitions: designing optimized, expressive abstractions for scientific computing and replicating complex research results from white papers.
+🛠 Key projects pinned on my profile:
+- **neural-net** — From-scratch neural network implementation in Rust  
+- **stellar-math** — Math backend exploring linear algebra decompositions and transforms  
+- **algo** — Daily DSA problem-solving in Rust  
+- **wordle** — Quick unique word search tool in Rust  
+- **infra_as_code** — AWS Lambda infrastructure with JavaScript  
+- **py-template** — Python package starter template
 
-💬 Always up for discussions about:
-- numerical methods, HPC, or autodiff
-- how to bend Rust’s borrow checker to your will
-- turning ML research into robust systems
+🔬 These are warmups and stepping stones toward replicating complex research and building expressive abstractions for scientific computing.
+
+💬 Open to discussions on numerical methods, HPC, autodiff, and mastering Rust’s borrow checker.
 
 📫 Discord: autumn#3467  
-🛠 If your first thought is to ask me an algorithm problem, please be kind—I’m likely already solving five 😅
-
-<!---
-cyancirrus/cyancirrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚠️ Algorithm questions? I’m likely already juggling several — but always happy to chat! 😅
