@@ -6,7 +6,7 @@
 - Low-level systems and performance optimization
 - SVD, matrix operations, and signal processing
 
-🦀 Building a Rust-based ecosystem from scratch:
+🦀 Building a Rust-based compute ecosystem from scratch:
 - Neural nets without external libraries
 - Custom BLAS-like math backend (`stellar-math`)
 - High-performance linear algebra and Fourier transforms
