@@ -1,6 +1,6 @@
 👋 Hi, I’m @cyancirrus (Autumn / Raven Echo)
 
-[link to my blog!](location https://cyancirrus.github.io/autumn_leaves.io/)
+[`link to my blog!`](location https://cyancirrus.github.io/autumn_leaves.io/)
 
 🧠 Deeply immersed in:
 - Mathematical & scientific computing
