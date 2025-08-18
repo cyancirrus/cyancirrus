@@ -1,33 +1,39 @@
-👋 Hi, I’m @cyancirrus (Autumn / Raven Echo)
+Hi, I’m Raven (Autumn / Raven Echo)
 
-[`link to my blog!`](https://cyancirrus.github.io/autumn_leaves.io/)
+[`🌿 blog`](https://cyancirrus.github.io/autumn_leaves.io/)
 
-🧠 Deeply immersed in:
-- Mathematical & scientific computing
-- Neural networks and numerical methods
-- Low-level systems and performance optimization
-- SVD, matrix operations, and signal processing
+Currently diving deep into:
+- Mathematical & scientific computing  
+- Neural networks, numerical methods, and control theory  
+- Low-level systems: Rust, C, CUDA, shaders, and async patterns  
+- High-performance linear algebra, Fourier transforms, and SVD  
 
-🦀 Building a Rust-based compute ecosystem from scratch:
-- Neural nets without external libraries
-- Custom BLAS-like math backend (`stellar-math`)
-- High-performance linear algebra and Fourier transforms
+Building a Rust-based compute ecosystem from scratch:
+- Neural nets with no external ML libraries  
+- `stellar-math` — a custom BLAS/FFT backend  
+- Experiments with stochastic SVD, differentiable logic nets, and GPU acceleration  
 
-📚 Sharpening fundamentals with daily LeetCode challenges:  
-- Focused on dynamic programming, graph theory, and complex systems — solutions live in my [`algo`](https://github.com/cyancirrus/algo/tree/main/solutions) repo.
+⚡ Expanding into:
+- GPU compute (CUDA kernels + Rust FFI)  
+- Real-time simulation & control (pendulum balancing, state estimation)  
+- Parser/AST building in Rust  
+- Async-safe data structures (LRU caches, arenas, relaxed-read concurrency)  
 
-🛠 Key projects pinned on my profile:
-- **neural-net** — From-scratch neural network implementation in Rust  
-- **stellar-math** — Math backend exploring linear algebra decompositions and transforms  
-- **algo** — Daily DSA problem-solving in Rust  
-- **wordle** — Quick unique word search tool in Rust  
-- **infra_as_code** — AWS Lambda infrastructure with JavaScript  
-- **py-template** — Python package starter template
+Sharpening fundamentals with daily LeetCode practice:  
+- Focused on dynamic programming, graph algorithms, and memory-lean solutions — tracked in [`algo`](https://github.com/cyancirrus/algo/tree/main/solutions).
 
-🔬 These are warmups and stepping stones toward replicating complex research and building expressive abstractions for scientific computing.
+🛠 Key projects:
+- **neural-net** — From-scratch neural network in Rust  
+- **stellar-math** — Low-level math backend (linear algebra, decompositions, FFT)  
+- **algo** — Daily algorithm practice in Rust  
+- **lru-cache** — Unsafe Rust exploration into pointers & memory management  
+- **wordle** — Word search & constraint solver in Rust  
+- **infra_as_code** — AWS Lambda infrastructure in JS  
+- **py-template** — Python package starter template  
 
-💬 Open to discussions on numerical methods, HPC, autodiff, and mastering Rust’s borrow checker.
+All of this is scaffolding toward replicating research, writing better abstractions, and building expressive tools for scientific computing.
 
-📫 Discord: magenta#2449
-⚠️ Algorithm questions? I’m likely already juggling several — but always happy to chat! 😅
+Always happy to talk about numerics, HPC, Rust’s borrow checker, async, or low-level GPU work.  
 
+Discord: magenta#2449  
+Algorithm questions? I’m probably mid-problem — but feel free to reach out! 😅
