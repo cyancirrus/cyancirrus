@@ -13,7 +13,7 @@ Building a Rust-based compute ecosystem from scratch:
 - `stellar-math` — a custom BLAS/FFT backend  
 - Experiments with stochastic SVD, differentiable logic nets, and GPU acceleration  
 
-⚡ Expanding into:
+Expanding into:
 - GPU compute (CUDA kernels + Rust FFI)  
 - Real-time simulation & control (pendulum balancing, state estimation)  
 - Parser/AST building in Rust  
@@ -35,5 +35,5 @@ All of this is scaffolding toward replicating research, writing better abstracti
 
 Always happy to talk about numerics, HPC, Rust’s borrow checker, async, or low-level GPU work.  
 
-Discord: magenta#2449  
+[Discord](magenta#2449)
 Algorithm questions? I’m probably mid-problem — but feel free to reach out! 😅
